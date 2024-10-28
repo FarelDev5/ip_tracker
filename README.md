@@ -54,10 +54,15 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan tool ini di Termu
    ```
 
 6. **Menjalankan Tool**  
-   Jalankan tool dengan perintah berikut:
+   Jalankan tool lacak IP dengan perintah berikut:
    ```bash
    ./tracker.sh
    ```
+   Jalankan tool lacak Nomor dengan perintah berikut:
+   ```bash
+   ./phone_lookup.sh
+   ```
+   
 
 ## Fitur
 
