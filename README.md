@@ -56,11 +56,11 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan tool ini di Termu
 6. **Menjalankan Tool**  
    Jalankan tool lacak IP dengan perintah berikut:
    ```bash
-   ./tracker.sh
+   sh tracker.sh
    ```
    Jalankan tool lacak Nomor dengan perintah berikut:
    ```bash
-   ./phone_lookup.sh
+   sh phone_lookup.sh
    ```
    
 
